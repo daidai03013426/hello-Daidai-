@@ -1,2 +1,2 @@
 # hello-Daidai-
-This is my forst repository.
+This is my first repository.
